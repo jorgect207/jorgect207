@@ -2,7 +2,7 @@
 
 ## About me
 
--  Mechanical Enginer turned to smart contract auditor.
+-  Mechanical Engineer turned to smart contract auditor.
 -  Smart Contract Auditor | Solidity.
 -  Security Researcher.
 -  JavaScript
