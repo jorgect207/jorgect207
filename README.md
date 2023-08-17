@@ -1,16 +1,36 @@
-### Hi there 👋
+### JORGE CASTILLO
 
-<!--
-**jorgect207/jorgect207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+-  Mechanical Enginer turned to smart contract auditor.
+-  Smart Contract Auditor | Solidity.
+-  Security Researcher.
+-  JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Audit Perfil
+
+- https://code4rena.com/@Jorgect
+
+## Solidity projects
+
+- https://github.com/jorgect207/StableCoin
+
+## Web3 projects (Front-End + Smart Contract)
+
+- https://github.com/jorgect207/NFT-DAPP
+- https://github.com/jorgect207/WHITELIST-DAPP
+
+## Scripts
+
+- https://github.com/jorgect207/AVEE-SCRIPT
+- https://github.com/jorgect207/ECDSA-Implementation
+
+## Front-End Projects
+
+- https://github.com/jorgect207/Authentication
+- https://github.com/jorgect207/REAC-REDUX-IMPLEMENTATION
+- https://github.com/jorgect207/OLILIENTHAL
+- https://github.com/jorgect207/STORE-CRYPTO
+
+
+
