@@ -2,7 +2,8 @@
 
 ## About me
 
--  Mechanical Engineer turned to smart contract auditor.
+Mechanical Engineer turned Smart Contract Auditor. One year working with etherium and evm related, Strong mathematical and physics knowledge. Passionate about Web3 and Smart Contracts. Driven by honesty and fairness, Help others and fostering a better society is better than money.
+
 -  Smart Contract Auditor | Solidity.
 -  Security Researcher.
 -  JavaScript
@@ -10,6 +11,7 @@
 ## Audit Perfil
 
 - https://code4rena.com/@Jorgect
+- https://cantina.xyz/u/tamayonft
 
 ## Auditing series 
 
