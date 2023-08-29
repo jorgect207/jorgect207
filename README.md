@@ -11,6 +11,10 @@
 
 - https://code4rena.com/@Jorgect
 
+## Auditing series 
+
+- https://github.com/jorgect207/AUDITING-GOVERNANCE-PROTOCOLS
+
 ## Solidity projects
 
 - https://github.com/jorgect207/StableCoin
