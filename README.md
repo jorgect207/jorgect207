@@ -13,9 +13,6 @@ Mechanical Engineer turned Smart Contract Auditor. One year working with etheriu
 - https://code4rena.com/@Jorgect
 - https://cantina.xyz/u/tamayonft
 
-## Auditing series 
-
-- https://github.com/jorgect207/AUDITING-GOVERNANCE-PROTOCOLS
 
 ## Solidity projects
 
