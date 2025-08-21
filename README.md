@@ -36,11 +36,11 @@ Mechanical Engineer turned Smart Contract Auditor. 2 years learning and working 
 | Name           | Number of Findings (H/M) | Type        | Company        | Reward | Place | Link                                                                 |
 |----------------|--------------------------|-------------|----------------|--------|-------|----------------------------------------------------------------------|
 | yieldfi        | 8                        | cross chain | cyfrin audits  |        |       | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-04-24-cyfrin-yieldfi-v2.0.pdf) |
-| Untitled Bank  | 12                       | lending     | cyfrin audits  |        |       | No public                                                            |
-| fjord          | 19                       | token launch| cyfrin audits  |        |       | No public                                                            |
-| Syntetika      | 2                        | staking     | cyfrin audits  |        |       | No public                                                            |
-| Alvara NFT     | 3                        | cross chain | cyfrin audits  |        |       | No public                                                            |
-| atum           | 4                        | cross chain | cyfrin audits  |        |       | No public                                                            |
+| Redacted |   Redacted                     | lending     | cyfrin audits  |        |       | No public                                                            |
+| Redacted          |    Redacted                    | token launch| cyfrin audits  |        |       | No public                                                            |
+| Redacted      |      Redacted                  | staking     | cyfrin audits  |        |       | No public                                                            |
+|    Redacted  | Redacted                       | cross chain | cyfrin audits  |        |       | No public                                                            |
+|     Redacted    | Redacted                      | cross chain | cyfrin audits  |        |       | No public                                                            |
 
 ## Solidity projects
 
