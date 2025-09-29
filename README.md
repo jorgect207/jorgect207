@@ -41,6 +41,7 @@ Mechanical Engineer turned Smart Contract Auditor. 2 years learning and working 
 | Redacted      |      Redacted                  | staking     | cyfrin audits  |        |       | No public                                                            |
 |    Redacted  | Redacted                       | cross chain | cyfrin audits  |        |       | No public                                                            |
 |     Redacted    | Redacted                      | cross chain | cyfrin audits  |        |       | No public                                                            |
+|     avant    | Redacted                      | Request-Based Token Wrap/Unwrap | cyfrin audits  |        |       | [link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-08-28-cyfrin-avant-max-v2.0.pdf)                                                            |
 
 ## Solidity projects
 
