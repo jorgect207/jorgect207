@@ -50,11 +50,16 @@ Mechanical Engineer turned Smart Contract Auditor. 2 years of hard working in sm
 |     Stimpak     | Redacted                      | GMX integrations | cyfrin audits  |        |       | No public   
 |     Venus protocol     |   Redacted                    | Router/Lending | cyfrin audits  |        |       | No public   
 
-##Articles
+## Articles
+
 [Cosmos unmasked, A security guide to review cosmos application](https://medium.com/@jorgecastillot2017/cosmos-unmasked-a-security-guide-to-review-cosmos-application-cfc9efbdd205)
+
 [Guide for EVM auditors to quickly start auditing Move contracts](https://x.com/TamayoNft/status/1934606967722360873)
+
 [Implementing safety UMA optimistic oracle](https://x.com/TamayoNft/status/1954973893502046547)
+
 [You are thinking about rounding errors wrong](https://x.com/TamayoNft/status/2005678539232743565)
+
 [ERC20 for Beginners and Advances Auditors](https://x.com/TamayoNft/status/1996605299671609805)
 
 ## Scripts
