@@ -2,7 +2,7 @@
 
 ## About me
 
-Mechanical Engineer turned Smart Contract Auditor. 2 years learning and working in security publicly, Strong mathematical and physics knowledge. Passionate about Web3 and Smart Contracts. Driven by honesty and fairness, Help others and fostering a better society is better than money; 100 H/M vulns in public contest.
+Mechanical Engineer turned Smart Contract Auditor. 2 years of hard working in smart contract security publicly and 1 year of working in private audits with 100 H/M vulns in public contest. Most of this vulnerabilityes are in solidity but there are also in rust and go, I consider myself as one of thwe most versatile auditors in the space with strong knowledge in defi but also in infraestructure. Strong mathematical and physics knowledge. reader and writer. Passionate about Web3 and Smart Contracts, 
 
 ## Audit Perfil
 
@@ -43,12 +43,26 @@ Mechanical Engineer turned Smart Contract Auditor. 2 years learning and working 
 | atum-tron      |      Redacted                  | staking     | cyfrin audits  |        |       | No public                                                            |
 |    Securitize Dstoken  | 11                       | cross chain/ TradeFi | cyfrin audits  |        |       | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-10-cyfrin-securitize-dstoken-rebasing-v2.1.pdf)|
 |    Securitize Registry  | 3                       | cross chain/ TradeFi | cyfrin audits  |        |       | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-11-06-cyfrin-securitize-global-registry-v2.0.pdf)|
-|     Securitize    | 4                      | cross chain/ TradeFi | cyfrin audits  |        |       | [[Link]](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-24-cyfrin-securitize-public-stock-ramp-v2.0.pdf)  |
-|     Syntetika     |   2                    | staking | cyfrin audits  |        |       | [[Link]](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-08-01-cyfrin-syntetika-v2.0.pdf)|
+|     Securitize    | 4                      | cross chain/ TradeFi | cyfrin audits  |        |       | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-24-cyfrin-securitize-public-stock-ramp-v2.0.pdf)  |
+|     Syntetika     |   2                    | staking | cyfrin audits  |        |       | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-08-01-cyfrin-syntetika-v2.0.pdf)|
 |     avant    | Redacted                      | Request-Based Token Wrap/Unwrap | cyfrin audits  |        |       | [link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-08-28-cyfrin-avant-max-v2.0.pdf)  |
 |     atum-evm-tvm-v2     | Redacted                      | brige | cyfrin audits  |        |       | No public   
 |     Stimpak     | Redacted                      | GMX integrations | cyfrin audits  |        |       | No public   
-|     Venus protocol     |                       | Router/Lending | cyfrin audits  |        |       | No public   
+|     Venus protocol     |   Redacted                    | Router/Lending | cyfrin audits  |        |       | No public   
+
+##Articles
+[Cosmos unmasked, A security guide to review cosmos application](https://medium.com/@jorgecastillot2017/cosmos-unmasked-a-security-guide-to-review-cosmos-application-cfc9efbdd205)
+[Guide for EVM auditors to quickly start auditing Move contracts](https://x.com/TamayoNft/status/1934606967722360873)
+[Implementing safety UMA optimistic oracle](https://x.com/TamayoNft/status/1954973893502046547)
+[You are thinking about rounding errors wrong](https://x.com/TamayoNft/status/2005678539232743565)
+[ERC20 for Beginners and Advances Auditors](https://x.com/TamayoNft/status/1996605299671609805)
+
+## Scripts
+
+- https://github.com/jorgect207/Smart-contract-listener-
+- https://github.com/jorgect207/AVEE-SCRIPT
+- https://github.com/jorgect207/ECDSA-Implementation
+
 
 ## Solidity projects
 
@@ -59,10 +73,7 @@ Mechanical Engineer turned Smart Contract Auditor. 2 years learning and working 
 - https://github.com/jorgect207/NFT-DAPP
 - https://github.com/jorgect207/WHITELIST-DAPP
 
-## Scripts
 
-- https://github.com/jorgect207/AVEE-SCRIPT
-- https://github.com/jorgect207/ECDSA-Implementation
 
 ## Front-End Projects
 
