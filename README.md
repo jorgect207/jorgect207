@@ -17,6 +17,7 @@ Mechanical Engineer turned Smart Contract Auditor. 2 years learning and working 
 | VenusProtocol                 | 1                        | cross chain     | cantina     | $13,250.00  | 2     | [Link](https://cantina.xyz/code/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf-overview/leaderboard) |
 | CCIP v1.5                     | 1                        | cross chain     | codehawks   | $10,300.00  | 7     | [Link](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
 | Smart Wallet coinbase         | 1                        | smart wallet    | code4arena  | $2,629.00   | 4     | [Link](https://code4rena.com/audits/2024-03-smart-wallet)            |
+| citrea                        | 1                        | derivates       | cantina     | $3,127.00   | 6     | [Link](https://cantina.xyz/code/49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1/overview/leaderboard) |
 | napier-v2                     | 1                        | derivates       | cantina     | $2,592.00   | 4     | [Link](https://cantina.xyz/code/58cd719b-9004-4eca-a113-41d1691c0711-overview/leaderboard) |
 | ajna protocol                 | 1                        | lending         | code4arena  | $1,400.00   | 12    | [Link](https://github.com/code-423n4/2023-05-ajna-findings/issues/132) |
 | Wise Lending                  | 2                        | lending         | code4arena  | $1,378.00   | 16    | [Link](https://code4rena.com/audits/2024-02-wise-lending)            |
@@ -36,12 +37,18 @@ Mechanical Engineer turned Smart Contract Auditor. 2 years learning and working 
 | Name           | Number of Findings (H/M) | Type        | Company        | Reward | Place | Link                                                                 |
 |----------------|--------------------------|-------------|----------------|--------|-------|----------------------------------------------------------------------|
 | yieldfi        | 8                        | cross chain | cyfrin audits  |        |       | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-04-24-cyfrin-yieldfi-v2.0.pdf) |
-| Redacted |   Redacted                     | lending     | cyfrin audits  |        |       | No public                                                            |
-| Redacted          |    Redacted                    | token launch| cyfrin audits  |        |       | No public                                                            |
+| Atum |   Redacted                     | lending     | cyfrin audits  |        |       | No public                                                            |
+| alvara-nft          |    Redacted                    | token launch| cyfrin audits  |        |       | No public                                                            |
 | Redacted      |      Redacted                  | staking     | cyfrin audits  |        |       | No public                                                            |
-|    Redacted  | Redacted                       | cross chain | cyfrin audits  |        |       | No public                                                            |
-|     Redacted    | Redacted                      | cross chain | cyfrin audits  |        |       | No public                                                            |
-|     avant    | Redacted                      | Request-Based Token Wrap/Unwrap | cyfrin audits  |        |       | [link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-08-28-cyfrin-avant-max-v2.0.pdf)                                                            |
+| atum-tron      |      Redacted                  | staking     | cyfrin audits  |        |       | No public                                                            |
+|    Securitize Dstoken  | 11                       | cross chain/ TradeFi | cyfrin audits  |        |       | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-10-cyfrin-securitize-dstoken-rebasing-v2.1.pdf)|
+|    Securitize Registry  | 3                       | cross chain/ TradeFi | cyfrin audits  |        |       | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-11-06-cyfrin-securitize-global-registry-v2.0.pdf)|
+|     Securitize    | 4                      | cross chain/ TradeFi | cyfrin audits  |        |       | [[Link]](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-24-cyfrin-securitize-public-stock-ramp-v2.0.pdf)  |
+|     Syntetika     |   2                    | staking | cyfrin audits  |        |       | [[Link]](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-08-01-cyfrin-syntetika-v2.0.pdf)|
+|     avant    | Redacted                      | Request-Based Token Wrap/Unwrap | cyfrin audits  |        |       | [link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-08-28-cyfrin-avant-max-v2.0.pdf)  |
+|     atum-evm-tvm-v2     | Redacted                      | brige | cyfrin audits  |        |       | No public   
+|     Stimpak     | Redacted                      | GMX integrations | cyfrin audits  |        |       | No public   
+|     Venus protocol     |                       | Router/Lending | cyfrin audits  |        |       | No public   
 
 ## Solidity projects
 
