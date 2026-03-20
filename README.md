@@ -2,7 +2,7 @@
 
 ## About me
 
-Mechanical Engineer turned Smart Contract Auditor. 2 years of hard working in smart contract security publicly and 1 year of working in private audits with 100 H/M vulns in public contest. Most of this vulnerabilityes are in solidity but there are also in rust and go, I consider myself as one of thwe most versatile auditors in the space with strong knowledge in defi but also in infraestructure. Strong mathematical and physics knowledge. reader and writer. Passionate about Web3 and Smart Contracts, 
+Mechanical Engineer turned Smart Contract Auditor. 3 years of hard working in smart contract security publicly and 1 year of working in private audits with 100 H/M vulns in public contest. Most of this vulnerabilityes are in solidity but there are also in rust and go, I consider myself as one of thwe most versatile auditors in the space with strong knowledge in defi but also in infraestructure. Strong mathematical and physics knowledge. reader and writer. Passionate about Web3 and Smart Contracts, 
 
 ## Audit Perfil
 
