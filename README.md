@@ -35,6 +35,7 @@ Mechanical Engineer turned Smart Contract Auditor. 3 years of hard working in sm
 ## Infraestructure Competitions
 
 | Name                          | Number of Findings (H/M) | Type            | Platform    | Reward      | Place | Link                                                                 |
+|-------------------------------|--------------------------|-----------------|-------------|-------------|-------|----------------------------------------------------------------------|
 | Monad                        | 1                        | INFRA       | code4arena     | 2,525.97  | 14     | [Link](https://code4rena.com/audits/2025-09-monad) |
 | citrea                        | 1                        | INFRA       | cantina     | $3,127.00   | 6     | [Link](https://cantina.xyz/code/49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1/overview/leaderboard) |
 | story-protocol                | 1                        | INFRA | cantina     | $829.00     | 58    | [Link](https://cantina.xyz/code/0561defa-eeb2-4a74-8884-5d7a873afa58-overview/leaderboard) |
