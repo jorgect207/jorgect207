@@ -32,6 +32,13 @@ Mechanical Engineer turned Smart Contract Auditor. 3 years of hard working in sm
 | Salty.IO                      | 4                        | lending         | code4arena  | $212.00     | 57    | [Link](https://code4rena.com/audits/2024-01-saltyio)                 |
 | NOYA                          | 7                        | AI Agents       | code4arena  | $211.00     | 37    | [Link](https://code4rena.com/audits/2024-04-noya)                    |
 
+## Infraestructure Competitions
+| Name                          | Number of Findings (H/M) | Type            | Platform    | Reward      | Place | Link                                                                 |
+| Monad                        | 1                        | INFRA       | code4arena     | 2,525.97  | 14     | [Link](https://code4rena.com/audits/2025-09-monad) |
+| citrea                        | 1                        | INFRA       | cantina     | $3,127.00   | 6     | [Link](https://cantina.xyz/code/49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1/overview/leaderboard) |
+| story-protocol                | 1                        | INFRA | cantina     | $829.00     | 58    | [Link](https://cantina.xyz/code/0561defa-eeb2-4a74-8884-5d7a873afa58-overview/leaderboard) |
+
+
 ## Private Audit protafolio
 
 | Name           | Number of Findings (H/M) | Type        | Company        | Reward | Place | Link                                                                 |
@@ -46,9 +53,12 @@ Mechanical Engineer turned Smart Contract Auditor. 3 years of hard working in sm
 |     Securitize    | 4                      | cross chain/ TradeFi | cyfrin audits  |        |       | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-24-cyfrin-securitize-public-stock-ramp-v2.0.pdf)  |
 |     Syntetika     |   2                    | staking | cyfrin audits  |        |       | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-08-01-cyfrin-syntetika-v2.0.pdf)|
 |     avant    | Redacted                      | Request-Based Token Wrap/Unwrap | cyfrin audits  |        |       | [link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-08-28-cyfrin-avant-max-v2.0.pdf)  |
-|     atum-evm-tvm-v2     | Redacted                      | brige | cyfrin audits  |        |       | No public   
-|     Stimpak     | Redacted                      | GMX integrations | cyfrin audits  |        |       | No public   
-|     Venus protocol     |   Redacted                    | Router/Lending | cyfrin audits  |        |       | No public   
+|     atum-evm-tvm-v2     | Redacted                      | brige | cyfrin audits  |        |       | No public |  
+|     Stimpak     | Redacted                      | GMX integrations | cyfrin audits  |        |       | No public |
+|     Venus protocol     |   Redacted                    | Router/Lending | cyfrin audits  |        |       | No public|   
+|    predict.fun    |   11                    |predictions markets | cyfrin audits  |        |       | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-04-25-cyfrin-predict-cre-integration-v2.1.pdf) |
+|    BridgeX   |   8                    |RWA | cyfrin audits  |        |       |[Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-04-01-cyfrin-bridgex-v2.0.pdf) |
+|    TraildHead   |   Redacted                   |Pendle integrations | cyfrin audits  |        |       |No public |
 
 ## Articles
 
